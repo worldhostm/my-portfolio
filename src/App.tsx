@@ -5,9 +5,7 @@ const App :React.FC= () => {
     return (
         <>
             <Router basename={process.env.PUBLIC_URL}>
-                    <Routes>
                         <Route path='/' element={<AboutMe />}/>
-                    </Routes>
             </Router>
         </>
     )
