@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.cf54b3ee.css",
-    "main.js": "/static/js/main.b62d2f01.js",
-    "static/js/787.2dcca737.chunk.js": "/static/js/787.2dcca737.chunk.js",
-    "static/media/mybatis.png": "/static/media/mybatis.88a326ca4b4b2a1a1751.png",
-    "static/media/jquery.png": "/static/media/jquery.fb91f03a257b8dd5ed89.png",
-    "static/media/wood-coffee-iphone-notebook.jpg": "/static/media/wood-coffee-iphone-notebook.a9fec66147027f9c6225.jpg",
-    "static/media/typescript.png": "/static/media/typescript.6b49df2deaf34c3fa1ab.png",
-    "static/media/oracle.png": "/static/media/oracle.368307282eb9c6cf7f4b.png",
-    "static/media/Javalogo.png": "/static/media/Javalogo.c2d9a0f76a0dee0d41c0.png",
-    "static/media/mssql.png": "/static/media/mssql.a394bc2b8958318716ad.png",
-    "static/media/ecmas6_2.png": "/static/media/ecmas6_2.54d73c80c5dd28e4c87a.png",
-    "static/media/react.png": "/static/media/react.fd373eec9017cf21b26d.png",
-    "static/media/css.png": "/static/media/css.02d225c7df0b28341d8d.png",
-    "static/media/redux.webp": "/static/media/redux.8ab709aba334e5366703.webp",
-    "static/media/spring.png": "/static/media/spring.63484b2c15522d3adad2.png",
-    "static/media/subversion_logo_icon_170548.png": "/static/media/subversion_logo_icon_170548.fa5cc62e57fcced7e964.png",
-    "index.html": "/index.html",
-    "main.cf54b3ee.css.map": "/static/css/main.cf54b3ee.css.map",
-    "main.b62d2f01.js.map": "/static/js/main.b62d2f01.js.map",
-    "787.2dcca737.chunk.js.map": "/static/js/787.2dcca737.chunk.js.map"
+    "main.css": "/my-portfolio/static/css/main.69c6d40b.css",
+    "main.js": "/my-portfolio/static/js/main.f80580cd.js",
+    "static/js/787.2dcca737.chunk.js": "/my-portfolio/static/js/787.2dcca737.chunk.js",
+    "static/media/mybatis.png": "/my-portfolio/static/media/mybatis.88a326ca4b4b2a1a1751.png",
+    "static/media/jquery.png": "/my-portfolio/static/media/jquery.fb91f03a257b8dd5ed89.png",
+    "static/media/wood-coffee-iphone-notebook.jpg": "/my-portfolio/static/media/wood-coffee-iphone-notebook.a9fec66147027f9c6225.jpg",
+    "static/media/typescript.png": "/my-portfolio/static/media/typescript.6b49df2deaf34c3fa1ab.png",
+    "static/media/oracle.png": "/my-portfolio/static/media/oracle.368307282eb9c6cf7f4b.png",
+    "static/media/Javalogo.png": "/my-portfolio/static/media/Javalogo.c2d9a0f76a0dee0d41c0.png",
+    "static/media/mssql.png": "/my-portfolio/static/media/mssql.a394bc2b8958318716ad.png",
+    "static/media/ecmas6_2.png": "/my-portfolio/static/media/ecmas6_2.54d73c80c5dd28e4c87a.png",
+    "static/media/react.png": "/my-portfolio/static/media/react.fd373eec9017cf21b26d.png",
+    "static/media/css.png": "/my-portfolio/static/media/css.02d225c7df0b28341d8d.png",
+    "static/media/redux.webp": "/my-portfolio/static/media/redux.8ab709aba334e5366703.webp",
+    "static/media/spring.png": "/my-portfolio/static/media/spring.63484b2c15522d3adad2.png",
+    "static/media/subversion_logo_icon_170548.png": "/my-portfolio/static/media/subversion_logo_icon_170548.fa5cc62e57fcced7e964.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.69c6d40b.css.map": "/my-portfolio/static/css/main.69c6d40b.css.map",
+    "main.f80580cd.js.map": "/my-portfolio/static/js/main.f80580cd.js.map",
+    "787.2dcca737.chunk.js.map": "/my-portfolio/static/js/787.2dcca737.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf54b3ee.css",
-    "static/js/main.b62d2f01.js"
+    "static/css/main.69c6d40b.css",
+    "static/js/main.f80580cd.js"
   ]
 }
