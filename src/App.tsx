@@ -1,14 +1,14 @@
 import React from 'react';
 import AboutMe from "./AboutMe";
-import {Routes,BrowserRouter as Router, Route} from 'react-router-dom'
+import {Routes,BrowserRouter as Router, Route, HashRouter} from 'react-router-dom'
 const App :React.FC= () => {
     return (
         <>
-            <Router>
+            <HashRouter>
                     <Routes>
                         <Route path='/' element={<AboutMe />}/>
                     </Routes>
-            </Router>
+            </HashRouter>
         </>
     )
 };
