@@ -4,11 +4,11 @@ import {Routes,BrowserRouter as Router, Route, HashRouter} from 'react-router-do
 const App :React.FC= () => {
     return (
         <>
-            <HashRouter>
+            <Router basename={process.env.PUBLIC_URL}>
                     <Routes>
                         <Route path='/' element={<AboutMe />}/>
                     </Routes>
-            </HashRouter>
+            </Router>
         </>
     )
 };
